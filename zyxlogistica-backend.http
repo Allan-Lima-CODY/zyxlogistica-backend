@@ -1,0 +1,6 @@
+@zyxlogistica_backend_HostAddress = http://localhost:5162
+
+GET {{zyxlogistica_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
